@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi, I'm Alejandro Rodriguez👋
 
 
 <!-- **alexrods/alexrods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -12,11 +12,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-### Tech Skills
+## :nerd_face: Some technologies I use: 
 
-#### **Languages:** 
+### **Languages:** 
 
-<p align="center">
+<p>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
