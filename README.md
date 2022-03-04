@@ -13,8 +13,8 @@ I'm a Data Scientist | Machine Learning Engineer looking to make a social and te
 - ⚡ Fun fact: ... -->
 
 ## Contact Info:
-    - LinkedIn
-    - 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/malexrodsan/) [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/m_alexrods) [<img src ="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](@m_alexrods)
+
 
 ## :nerd_face: Some technologies I use: 
 
@@ -26,7 +26,7 @@ I'm a Data Scientist | Machine Learning Engineer looking to make a social and te
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexrods&layout=compact)](https://github.com/alexrods/github-readme-stats)
+
 
 ### Frameworks:
 <p>
@@ -39,3 +39,4 @@ I'm a Data Scientist | Machine Learning Engineer looking to make a social and te
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
     <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dataversioncontrol&logoColor=white">
 </p>
+
