@@ -1,5 +1,5 @@
 # Hi, I'm Alejandro Rodriguez👋
-I'm Data Scientist|Machine Learning Engineer looking for impact
+I'm a Data Scientist | Machine Learning Engineer looking to make a social and technological impact based in data.
 
 <!-- **alexrods/alexrods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -12,6 +12,10 @@ I'm Data Scientist|Machine Learning Engineer looking for impact
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+## Contact Info:
+    - LinkedIn
+    - 
+
 ## :nerd_face: Some technologies I use: 
 
 ### Languages:
@@ -22,6 +26,7 @@ I'm Data Scientist|Machine Learning Engineer looking for impact
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexrods&layout=compact)](https://github.com/alexrods/github-readme-stats)
 
 ### Frameworks:
 <p>
